@@ -1,6 +1,6 @@
 # Coursera-Course-Work-Modules
 
-This repository is the collection of assignment (course-work) for the course of HTML, CSS & JAVASCRIPT BY JOHN HOPKINS UNIVERSITY (COURSERA).
+This repository is the collection of assignment (course-work) for the course of HTML, CSS & JAVASCRIPT BY JOHN-HOPKINS UNIVERSITY (COURSERA).
 
 ## Content
 - `module-2` (HTML & CSS files).
