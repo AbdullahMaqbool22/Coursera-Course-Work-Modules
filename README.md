@@ -6,7 +6,7 @@ This repository is the collection of assignment (course-work) for the course of 
 - `module-2` (HTML & CSS files).
 - `module-3` (HTML & CSS files).
 - `module-4` (HTML & JAVASCRIPT files).
-- `module-5` (HTML & CSS & JAVASCRIPT & BOOTSTRAP, .png files).
+- `module-5` (HTML, CSS, JAVASCRIPT, BOOTSTRAP & .png files).
 
 ## Usage
 
